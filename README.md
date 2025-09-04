@@ -17,7 +17,8 @@ It is designed for learning, practicing, and building a strong foundation in Dat
 - **Queue using Linked List** → Queue operations built using a Linked List.  
 - **Stack using Array** → Stack implementation using arrays.  
 - **Tree** → Additional tree-related operations and examples.  
-
+- **Heap** → Min-Heap and Max-Heap implementation.
+- **Priority Queue** → Priority Queue implementation with Min-Heap.
 ---
 
 ## 🚀 How to Run
