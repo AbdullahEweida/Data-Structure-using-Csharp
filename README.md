@@ -26,3 +26,4 @@ It is designed for learning, practicing, and building a strong foundation in Dat
 1. Clone the repository:
    ```bash
    https://github.com/AbdullahEweida/Data-Structure-using-Csharp/edit/main/README.md
+## Note : the class of data structure in separate file
