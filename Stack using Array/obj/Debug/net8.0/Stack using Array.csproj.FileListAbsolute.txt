@@ -1,0 +1,14 @@
+E:\MyGitHub\Data Structure(C#)\Data Structure\Stack using Array\bin\Debug\net8.0\Stack using Array.exe
+E:\MyGitHub\Data Structure(C#)\Data Structure\Stack using Array\bin\Debug\net8.0\Stack using Array.deps.json
+E:\MyGitHub\Data Structure(C#)\Data Structure\Stack using Array\bin\Debug\net8.0\Stack using Array.runtimeconfig.json
+E:\MyGitHub\Data Structure(C#)\Data Structure\Stack using Array\bin\Debug\net8.0\Stack using Array.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\Stack using Array\bin\Debug\net8.0\Stack using Array.pdb
+E:\MyGitHub\Data Structure(C#)\Data Structure\Stack using Array\obj\Debug\net8.0\Stack using Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyGitHub\Data Structure(C#)\Data Structure\Stack using Array\obj\Debug\net8.0\Stack using Array.AssemblyInfoInputs.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\Stack using Array\obj\Debug\net8.0\Stack using Array.AssemblyInfo.cs
+E:\MyGitHub\Data Structure(C#)\Data Structure\Stack using Array\obj\Debug\net8.0\Stack using Array.csproj.CoreCompileInputs.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\Stack using Array\obj\Debug\net8.0\Stack using Array.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\Stack using Array\obj\Debug\net8.0\refint\Stack using Array.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\Stack using Array\obj\Debug\net8.0\Stack using Array.pdb
+E:\MyGitHub\Data Structure(C#)\Data Structure\Stack using Array\obj\Debug\net8.0\Stack using Array.genruntimeconfig.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\Stack using Array\obj\Debug\net8.0\ref\Stack using Array.dll

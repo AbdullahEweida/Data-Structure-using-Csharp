@@ -1,0 +1,14 @@
+E:\MyGitHub\Data Structure(C#)\Data Structure\dbLinked List\bin\Debug\net8.0\dbLinked List.exe
+E:\MyGitHub\Data Structure(C#)\Data Structure\dbLinked List\bin\Debug\net8.0\dbLinked List.deps.json
+E:\MyGitHub\Data Structure(C#)\Data Structure\dbLinked List\bin\Debug\net8.0\dbLinked List.runtimeconfig.json
+E:\MyGitHub\Data Structure(C#)\Data Structure\dbLinked List\bin\Debug\net8.0\dbLinked List.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\dbLinked List\bin\Debug\net8.0\dbLinked List.pdb
+E:\MyGitHub\Data Structure(C#)\Data Structure\dbLinked List\obj\Debug\net8.0\dbLinked List.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyGitHub\Data Structure(C#)\Data Structure\dbLinked List\obj\Debug\net8.0\dbLinked List.AssemblyInfoInputs.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\dbLinked List\obj\Debug\net8.0\dbLinked List.AssemblyInfo.cs
+E:\MyGitHub\Data Structure(C#)\Data Structure\dbLinked List\obj\Debug\net8.0\dbLinked List.csproj.CoreCompileInputs.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\dbLinked List\obj\Debug\net8.0\dbLinked List.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\dbLinked List\obj\Debug\net8.0\refint\dbLinked List.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\dbLinked List\obj\Debug\net8.0\dbLinked List.pdb
+E:\MyGitHub\Data Structure(C#)\Data Structure\dbLinked List\obj\Debug\net8.0\dbLinked List.genruntimeconfig.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\dbLinked List\obj\Debug\net8.0\ref\dbLinked List.dll

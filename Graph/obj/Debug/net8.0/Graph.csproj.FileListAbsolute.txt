@@ -1,0 +1,14 @@
+E:\MyGitHub\Data Structure(C#)\Data Structure\Graph\bin\Debug\net8.0\Graph.exe
+E:\MyGitHub\Data Structure(C#)\Data Structure\Graph\bin\Debug\net8.0\Graph.deps.json
+E:\MyGitHub\Data Structure(C#)\Data Structure\Graph\bin\Debug\net8.0\Graph.runtimeconfig.json
+E:\MyGitHub\Data Structure(C#)\Data Structure\Graph\bin\Debug\net8.0\Graph.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\Graph\bin\Debug\net8.0\Graph.pdb
+E:\MyGitHub\Data Structure(C#)\Data Structure\Graph\obj\Debug\net8.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyGitHub\Data Structure(C#)\Data Structure\Graph\obj\Debug\net8.0\Graph.AssemblyInfoInputs.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\Graph\obj\Debug\net8.0\Graph.AssemblyInfo.cs
+E:\MyGitHub\Data Structure(C#)\Data Structure\Graph\obj\Debug\net8.0\Graph.csproj.CoreCompileInputs.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\Graph\obj\Debug\net8.0\Graph.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\Graph\obj\Debug\net8.0\refint\Graph.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\Graph\obj\Debug\net8.0\Graph.pdb
+E:\MyGitHub\Data Structure(C#)\Data Structure\Graph\obj\Debug\net8.0\Graph.genruntimeconfig.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\Graph\obj\Debug\net8.0\ref\Graph.dll

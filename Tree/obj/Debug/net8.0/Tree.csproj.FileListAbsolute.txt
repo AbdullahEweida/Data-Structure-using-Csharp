@@ -1,0 +1,14 @@
+E:\MyGitHub\Data Structure(C#)\Data Structure\Tree\bin\Debug\net8.0\Tree.exe
+E:\MyGitHub\Data Structure(C#)\Data Structure\Tree\bin\Debug\net8.0\Tree.deps.json
+E:\MyGitHub\Data Structure(C#)\Data Structure\Tree\bin\Debug\net8.0\Tree.runtimeconfig.json
+E:\MyGitHub\Data Structure(C#)\Data Structure\Tree\bin\Debug\net8.0\Tree.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\Tree\bin\Debug\net8.0\Tree.pdb
+E:\MyGitHub\Data Structure(C#)\Data Structure\Tree\obj\Debug\net8.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyGitHub\Data Structure(C#)\Data Structure\Tree\obj\Debug\net8.0\Tree.AssemblyInfoInputs.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\Tree\obj\Debug\net8.0\Tree.AssemblyInfo.cs
+E:\MyGitHub\Data Structure(C#)\Data Structure\Tree\obj\Debug\net8.0\Tree.csproj.CoreCompileInputs.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\Tree\obj\Debug\net8.0\Tree.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\Tree\obj\Debug\net8.0\refint\Tree.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\Tree\obj\Debug\net8.0\Tree.pdb
+E:\MyGitHub\Data Structure(C#)\Data Structure\Tree\obj\Debug\net8.0\Tree.genruntimeconfig.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\Tree\obj\Debug\net8.0\ref\Tree.dll

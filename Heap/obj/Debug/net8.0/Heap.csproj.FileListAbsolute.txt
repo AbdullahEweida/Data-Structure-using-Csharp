@@ -1,0 +1,14 @@
+E:\MyGitHub\Data Structure(C#)\Data Structure\Heap\bin\Debug\net8.0\Heap.exe
+E:\MyGitHub\Data Structure(C#)\Data Structure\Heap\bin\Debug\net8.0\Heap.deps.json
+E:\MyGitHub\Data Structure(C#)\Data Structure\Heap\bin\Debug\net8.0\Heap.runtimeconfig.json
+E:\MyGitHub\Data Structure(C#)\Data Structure\Heap\bin\Debug\net8.0\Heap.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\Heap\bin\Debug\net8.0\Heap.pdb
+E:\MyGitHub\Data Structure(C#)\Data Structure\Heap\obj\Debug\net8.0\Heap.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyGitHub\Data Structure(C#)\Data Structure\Heap\obj\Debug\net8.0\Heap.AssemblyInfoInputs.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\Heap\obj\Debug\net8.0\Heap.AssemblyInfo.cs
+E:\MyGitHub\Data Structure(C#)\Data Structure\Heap\obj\Debug\net8.0\Heap.csproj.CoreCompileInputs.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\Heap\obj\Debug\net8.0\Heap.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\Heap\obj\Debug\net8.0\refint\Heap.dll
+E:\MyGitHub\Data Structure(C#)\Data Structure\Heap\obj\Debug\net8.0\Heap.pdb
+E:\MyGitHub\Data Structure(C#)\Data Structure\Heap\obj\Debug\net8.0\Heap.genruntimeconfig.cache
+E:\MyGitHub\Data Structure(C#)\Data Structure\Heap\obj\Debug\net8.0\ref\Heap.dll
